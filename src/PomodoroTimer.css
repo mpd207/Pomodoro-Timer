@@ -1,0 +1,46 @@
+.pomodoro-timer {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.session-type {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.timer {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+.settings-toggle {
+  margin-bottom: 20px;
+}
+
+.settings-menu {
+  margin-bottom: 20px;
+}
+
+.settings-menu input {
+  margin-bottom: 10px;
+}
+
+.sessions-completed {
+  font-size: 18px;
+}
+
+.dark-mode-toggle {
+  margin-top: 20px;
+}
+
+.dark-mode-toggle label {
+  margin-right: 10px;
+}
+
+.dark-mode-toggle input {
+  vertical-align: middle;
+}
